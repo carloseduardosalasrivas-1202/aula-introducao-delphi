@@ -30,4 +30,19 @@ object frmPrincipal: TfrmPrincipal
     TabOrder = 1
     OnClick = btnAtividade01Click
   end
+  object btnAtividade47: TButton
+    Left = 256
+    Top = 88
+    Width = 150
+    Height = 33
+    Caption = 'Atividade47'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'Segoe UI'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 2
+    OnClick = btnAtividade47Click
+  end
 end

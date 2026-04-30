@@ -4,7 +4,8 @@ uses
   Vcl.Forms,
   UPrincipal in 'UPrincipal.pas' {frmPrincipal},
   UExemplo01 in 'UExemplo01.pas' {frmExemplo01},
-  UAtividade01 in 'UAtividade01.pas' {frmAtividade01};
+  UAtividade01 in 'UAtividade01.pas' {frmAtividade01},
+  Atividade47 in 'D:\TEMP\carlos\aula-introducao-delphi\Atividade47.pas' {frmAtividade47: TFrame};
 
 {$R *.res}
 
